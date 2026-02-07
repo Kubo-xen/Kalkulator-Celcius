@@ -1,30 +1,36 @@
-# Kalkulator-Celcius-Dengan-C
-Ini adalah kalkulator yang dapat mengonversi suhu dari Celcius menuju suhu Reamur, Kelvin, dan Fahrenheit.
-Bahasa yang digunakan adalah C++.
+# Kalkulator Celcius dengan C++
 
-Cara penggunaan:
+Kalkulator sederhana berbasis **C++** untuk mengonversi suhu dari **Celcius** ke:
+- Reamur
+- Fahrenheit
+- Kelvin
 
-1. Download File "Kalkulator_Suhu.exe".
-2. Simpan ke storage yang diinginkan.
-3. Buka Terminal.  
-4. Masuk ke Folder dimana anda menyimpan file "Kalkulator_Suhu.exe".
-   Cara untuk masuk ke folder via terminal adalah sebagai berikut :
+Project ini cocok untuk pemula yang ingin memahami dasar input, output, dan perhitungan matematika di C++.
 
-   Jalankan Command berikut pada terminal :
-   
-   Windows
-   
-   cd (C:\user\dekstop\namafolder)
-   
-   Linux/MacOS
-   
-   cd (/home/namaFolder)
-   
-   Ubah tulisan yang ada pada dalam kurung menjadi alamat dimana anda menyimpan file "Kalkulator_Suhu.exe".
-      
-6. Setelah masuk ke dalam folder, ketikkan perintah berikut :
-   
-   ./Kalkulator_Suhu.exe
-7. Anda akan diminta untuk memasukkan nilai Celcius, dan secara otomatis akan mengonversi nilai tersebut ke dalam bentuk Reamur, Fahrenheit, dan Kelvin
+---
 
-Saya menambahkan file .cpp teruntuk anda yang ingin melakukan modifikasi pada Kalkulator suhu tersebut
+## ✨ Fitur
+- Konversi suhu dari Celcius ke Reamur
+- Konversi suhu dari Celcius ke Fahrenheit
+- Konversi suhu dari Celcius ke Kelvin
+- Program berjalan melalui terminal (CLI)
+
+---
+
+## 📦 Cara Penggunaan
+
+### 1. Unduh Program
+Download file **`Kalkulator_Suhu.exe`** dan simpan ke folder yang kamu inginkan.
+
+---
+
+### 2. Buka Terminal
+Buka **Command Prompt / Terminal** sesuai sistem operasi yang digunakan.
+
+---
+
+### 3. Masuk ke Folder Program
+
+#### Windows
+```bash
+cd C:\Users\nama_user\Desktop\nama_folder
